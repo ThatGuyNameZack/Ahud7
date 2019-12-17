@@ -1,0 +1,9 @@
+{
+	Animate KnucklesCrosses		FgColor		"CrosshairDamage"		Linear 0.0 0.0
+	Animate KnucklesCrosses		FgColor		"Crosshair"		Linear 0.15 0.0
+
+	Animate pazer_crosshair_transparent    FgColor     "0 255 0 255"        Linear 0.0 0.00
+	Animate pazer_crosshair_transparent    FgColor     "255 255 255 16"     Bias   0.2 0.0 0.15
+	Animate pazer_crosshair_opaque         FgColor     "0 255 0 255"        Linear 0.0 0.0
+	Animate pazer_crosshair_opaque         FgColor     "255 255 255 255"    Bias   0.2 0.0 0.3
+}
